@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 _I'm Artur, JavaScript FullStack Developer from Poland._
 
 _Currently working at [Heseya](https://github.com/heseya) as **Lead Frontend Developer**_.
